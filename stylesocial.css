@@ -1,14 +1,13 @@
-html{
+html {
   box-sizing: border-box;
 }
 main article p span {
-color: #53ff64;
-background-color: rgb(255, 206, 142);
+  color: #53ff64;
+  background-color: rgb(255, 206, 142);
 }
-a{
+a {
   text-decoration: none;
   color: #000000;
-  
 }
 a div {
   background-color: rgb(0, 0, 0);
@@ -21,88 +20,36 @@ a div {
   align-items: center;
   text-align: center;
   color: #53ff64;
-  
 }
-/* .fa-youtube,.fa-square-threads,.fa-github,.fa-square-instagram,.fa-square-facebook,.cib-buy-me-a-coffee,.cib-spotify{
-  font-size: 50px;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  margin-left: 49%;
-  margin-bottom: 10px;
-  color: rgb(0, 0, 0);
-} */
-/* .x{
-margin-left: 10px;
-  
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-background-color: rgb(255, 255, 255);
-color: rgb(255, 255, 255);
-font-size: 50px; */
 
-
-
-
-
-
-#so{margin-top: 40px; 
-  padding-top: 40px; 
+#so {
+  margin-top: 40px;
+  padding-top: 40px;
   padding-left: 50%;
   box-sizing: border-box;
   width: 1200px;
   height: 600px;
   justify-content: center;
   align-items: center;
-
-
 }
-.github,.youtube,.thread,.instagram,.facebook,.coffee,.spotify,.coffee,.x,.email,.patreon{
+.github,
+.youtube,
+.thread,
+.instagram,
+.facebook,
+.coffee,
+.spotify,
+.coffee,
+.x,
+.email,
+.patreon {
   margin-bottom: 10px;
   margin-top: 10px;
   line-height: px;
   display: flex;
   flex-direction: row;
   align-items: center;
-font-size: 18px;
-margin-right: 20%;
-font-weight: 500;
+  font-size: 18px;
+  margin-right: 20%;
+  font-weight: 500;
 }
-/* .name{
-  color: #c3ff87;
-}
-.thread{
-  padding-left: 13px;
-  
-}
-.github{
-  padding-left: 7px;
-}
-.instagram{
-  padding-left: 13px;
-}
-.facebook{
-  padding-left: 13px;
-}
-.coffee{
-  padding-left: 8px;
-  padding-top: 4px;
-}
-.spotify{
-  padding-left: 9px;
-  padding-top: 10px;
-} */
-
-/* header div a span{
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  padding-bottom: 25px;
-}
-.name{
-  position: relative;
- padding-bottom: 60px;
- color: #000000;
-font-size: 18px;
-} */
